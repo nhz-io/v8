@@ -37,3 +37,6 @@
 [submodule "test/simdjs/data"]
 	path = test/simdjs/data
 	url = https://chromium.googlesource.com/external/github.com/tc39/ecmascript_simd.git
+[submodule "test/test262/data"]
+	path = test/test262/data
+	url = https://chromium.googlesource.com/external/github.com/tc39/test262.git

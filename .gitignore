@@ -51,9 +51,6 @@ shell_g
 /test/promises-aplus/promises-tests
 /test/promises-aplus/promises-tests.tar.gz
 /test/promises-aplus/sinon
-/test/test262/data
-/test/test262/data.tar
-/test/test262/harness
 /third_party/android_tools
 /third_party/cygwin
 /third_party/inspector_protocol
