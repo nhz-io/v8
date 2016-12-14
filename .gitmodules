@@ -19,3 +19,6 @@
 [submodule "third_party/markupsafe"]
 	path = third_party/markupsafe
 	url = https://chromium.googlesource.com/chromium/src/third_party/markupsafe.git
+[submodule "tools/swarming_client"]
+	path = tools/swarming_client
+	url = https://chromium.googlesource.com/external/swarming.client.git
