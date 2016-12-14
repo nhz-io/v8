@@ -57,7 +57,6 @@ shell_g
 /test/test262/data
 /test/test262/data.tar
 /test/test262/harness
-/testing/gmock
 /third_party/android_tools
 /third_party/cygwin
 /third_party/inspector_protocol
