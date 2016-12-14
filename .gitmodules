@@ -40,3 +40,6 @@
 [submodule "test/test262/data"]
 	path = test/test262/data
 	url = https://chromium.googlesource.com/external/github.com/tc39/test262.git
+[submodule "test/test262/harness"]
+	path = test/test262/harness
+	url = https://chromium.googlesource.com/external/github.com/test262-utils/test262-harness-py.git
