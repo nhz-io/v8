@@ -34,3 +34,6 @@
 [submodule "test/mozilla/data"]
 	path = test/mozilla/data
 	url = https://chromium.googlesource.com/v8/deps/third_party/mozilla-tests.git
+[submodule "test/simdjs/data"]
+	path = test/simdjs/data
+	url = https://chromium.googlesource.com/external/github.com/tc39/ecmascript_simd.git
