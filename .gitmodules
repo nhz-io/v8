@@ -43,3 +43,6 @@
 [submodule "test/test262/harness"]
 	path = test/test262/harness
 	url = https://chromium.googlesource.com/external/github.com/test262-utils/test262-harness-py.git
+[submodule "tools/clang"]
+	path = tools/clang
+	url = https://chromium.googlesource.com/chromium/src/tools/clang.git
