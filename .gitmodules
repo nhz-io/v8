@@ -1,3 +1,6 @@
 [submodule "build"]
 	path = build
 	url = https://chromium.googlesource.com/chromium/src/build
+[submodule "tools/gyp"]
+	path = tools/gyp
+	url = https://chromium.googlesource.com/external/gyp
