@@ -10,3 +10,6 @@
 [submodule "third_party/instrumented_libraries"]
 	path = third_party/instrumented_libraries
 	url = https://chromium.googlesource.com/chromium/src/third_party/instrumented_libraries.git
+[submodule "base/trace_event/common"]
+	path = base/trace_event/common
+	url = https://chromium.googlesource.com/chromium/src/base/trace_event/common.git
