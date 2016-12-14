@@ -48,7 +48,6 @@ shell_g
 /out.gn
 /perf.data
 /perf.data.old
-/test/mozilla/data
 /test/promises-aplus/promises-tests
 /test/promises-aplus/promises-tests.tar.gz
 /test/promises-aplus/sinon
