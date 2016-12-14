@@ -4,3 +4,9 @@
 [submodule "tools/gyp"]
 	path = tools/gyp
 	url = https://chromium.googlesource.com/external/gyp
+[submodule "third_party/icu"]
+	path = third_party/icu
+	url = https://chromium.googlesource.com/chromium/deps/icu.git
+[submodule "third_party/instrumented_libraries"]
+	path = third_party/instrumented_libraries
+	url = https://chromium.googlesource.com/chromium/src/third_party/instrumented_libraries.git
