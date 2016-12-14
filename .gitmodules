@@ -28,3 +28,6 @@
 [submodule "testing/gmock"]
 	path = testing/gmock
 	url = https://chromium.googlesource.com/external/googlemock.git
+[submodule "test/benchmarks/data"]
+	path = test/benchmarks/data
+	url = https://chromium.googlesource.com/v8/deps/third_party/benchmarks.git
