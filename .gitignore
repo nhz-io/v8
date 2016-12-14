@@ -62,7 +62,6 @@ shell_g
 /third_party/android_tools
 /third_party/cygwin
 /third_party/inspector_protocol
-/third_party/jinja2
 /third_party/llvm
 /third_party/llvm-build
 /third_party/markupsafe
